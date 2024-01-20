@@ -4,6 +4,7 @@ import { Contador } from "./components/Contador";
 import { Texto } from "./components/Texto";
 import { Practica } from "./components/Practica";
 import { ListaDoble } from "./components/ListaDoble"
+import {Imagen} from "./components/Imagen";
 
 
 const root=ReactDom.createRoot(document.getElementById("root"));
@@ -14,6 +15,6 @@ root.render(
         <Texto/>
         <Practica/>
         <ListaDoble/>
+        <Imagen/>
     </>
-
 )

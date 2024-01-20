@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
